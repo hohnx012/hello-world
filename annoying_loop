@@ -1,0 +1,6 @@
+print ('Hi there, please type your name.')
+name = input ()
+while name != 'your name':
+  print ('Sorry, that is incorrect, please type your name again.')
+  name = input()
+print ('About damn time, Thank you!')
